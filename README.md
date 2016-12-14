@@ -1,6 +1,6 @@
 :smiley_cat:整理的技术分享和学习资料
 
-_These share data are from my usual work and learning，hoping to help you，If you like you can star_
+_These share data are from my usual work and learning，hoping to help you，If you like you can star_,thanks
 
 ## Javascript
 | Article | Article |
